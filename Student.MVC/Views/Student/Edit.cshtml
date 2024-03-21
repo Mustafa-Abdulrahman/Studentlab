@@ -1,0 +1,45 @@
+﻿@using Student.DAL.Data.Models.Enum
+
+
+@model AddStudentVM
+
+<form asp-action="Edit"  method="post">
+	<Label asp-for="Id">Id</Label>
+	<input asp-for="Id" value="@Model.Id" disabled/> 
+	<span asp-validation-for="Id"></span>
+	<Label asp-for="fName">First Name</Label>
+	<input asp-for="fName" value="@Model.fName" placeholder="Sara" /> 
+	<span asp-validation-for="fName"></span>
+
+	<Label asp-for="lName">Last Name</Label>
+	<input asp-for="lName" value="@Model.lName" placeholder="Abdo" /> 
+	<span asp-validation-for="lName"></span>
+	<Label asp-for="Email">Last Name</Label>
+	<input asp-for="Email" value="@Model.Email" placeholder="mm@gg.net" /> 
+	<span asp-validation-for="Email"></span>
+	<Label asp-for="Age">Age</Label>
+	<input asp-for="Age" value="@Model.Age" placeholder="27" /> 
+	<span asp-validation-for="Age"></span>
+
+	<Label asp-for="Department">Department</Label>
+	<select asp-for="Department" asp-items="Html.GetEnumSelectList<DeptStatus>()"> </select>
+
+	 <Label asp-for="IQLevel">IQ Level</Label>
+	<select asp-for="IQLevel"  > 
+		@foreach (var item in @ViewBag.IQLevel)
+		{
+					<option value="@item">@item</option>
+		}
+	</select>
+
+	<button type="submit">Update</button>
+</form>
+
+@section Scripts {
+
+					
+						<partial  name="_StudentShowData" model="@TempData[Constants.MyDataKeys.StdData] as AddStudentVM " />
+
+						
+					<partial  name="_ValidationScriptsPartial" />
+}

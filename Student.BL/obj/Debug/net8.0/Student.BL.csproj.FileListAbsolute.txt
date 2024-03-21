@@ -1,0 +1,30 @@
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.BL\bin\Debug\net8.0\Student.BL.deps.json
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.BL\bin\Debug\net8.0\Student.BL.dll
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.BL\bin\Debug\net8.0\Student.BL.pdb
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.BL\bin\Debug\net8.0\Student.DAL.dll
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.BL\bin\Debug\net8.0\Student.DAL.pdb
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.BL\obj\Debug\net8.0\Student.BL.csproj.AssemblyReference.cache
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.BL\obj\Debug\net8.0\Student.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.BL\obj\Debug\net8.0\Student.BL.AssemblyInfoInputs.cache
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.BL\obj\Debug\net8.0\Student.BL.AssemblyInfo.cs
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.BL\obj\Debug\net8.0\Student.BL.csproj.CoreCompileInputs.cache
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.BL\obj\Debug\net8.0\Student.BL.csproj.Up2Date
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.BL\obj\Debug\net8.0\Student.BL.dll
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.BL\obj\Debug\net8.0\refint\Student.BL.dll
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.BL\obj\Debug\net8.0\Student.BL.pdb
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.BL\obj\Debug\net8.0\ref\Student.BL.dll
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.BL\bin\Debug\net8.0\Student.BL.deps.json
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.BL\bin\Debug\net8.0\Student.BL.dll
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.BL\bin\Debug\net8.0\Student.BL.pdb
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.BL\bin\Debug\net8.0\Student.DAL.dll
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.BL\bin\Debug\net8.0\Student.DAL.pdb
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.BL\obj\Debug\net8.0\Student.BL.csproj.AssemblyReference.cache
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.BL\obj\Debug\net8.0\Student.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.BL\obj\Debug\net8.0\Student.BL.AssemblyInfoInputs.cache
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.BL\obj\Debug\net8.0\Student.BL.AssemblyInfo.cs
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.BL\obj\Debug\net8.0\Student.BL.csproj.CoreCompileInputs.cache
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.BL\obj\Debug\net8.0\Student.BL.csproj.Up2Date
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.BL\obj\Debug\net8.0\Student.BL.dll
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.BL\obj\Debug\net8.0\refint\Student.BL.dll
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.BL\obj\Debug\net8.0\Student.BL.pdb
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.BL\obj\Debug\net8.0\ref\Student.BL.dll

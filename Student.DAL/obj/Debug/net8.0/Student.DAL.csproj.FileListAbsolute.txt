@@ -1,0 +1,28 @@
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.DAL\bin\Debug\net8.0\Student.DAL.deps.json
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.DAL\bin\Debug\net8.0\Student.DAL.runtimeconfig.json
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.DAL\bin\Debug\net8.0\Student.DAL.dll
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.DAL\bin\Debug\net8.0\Student.DAL.pdb
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.DAL\obj\Debug\net8.0\Student.DAL.csproj.AssemblyReference.cache
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.DAL\obj\Debug\net8.0\Student.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.DAL\obj\Debug\net8.0\Student.DAL.AssemblyInfoInputs.cache
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.DAL\obj\Debug\net8.0\Student.DAL.AssemblyInfo.cs
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.DAL\obj\Debug\net8.0\Student.DAL.csproj.CoreCompileInputs.cache
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.DAL\obj\Debug\net8.0\Student.DAL.dll
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.DAL\obj\Debug\net8.0\refint\Student.DAL.dll
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.DAL\obj\Debug\net8.0\Student.DAL.pdb
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.DAL\obj\Debug\net8.0\Student.DAL.genruntimeconfig.cache
+D:\ITI 2023\26- ASP\3- Day3\Student\Student.DAL\obj\Debug\net8.0\ref\Student.DAL.dll
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.DAL\bin\Debug\net8.0\Student.DAL.deps.json
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.DAL\bin\Debug\net8.0\Student.DAL.runtimeconfig.json
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.DAL\bin\Debug\net8.0\Student.DAL.dll
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.DAL\bin\Debug\net8.0\Student.DAL.pdb
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.DAL\obj\Debug\net8.0\Student.DAL.csproj.AssemblyReference.cache
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.DAL\obj\Debug\net8.0\Student.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.DAL\obj\Debug\net8.0\Student.DAL.AssemblyInfoInputs.cache
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.DAL\obj\Debug\net8.0\Student.DAL.AssemblyInfo.cs
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.DAL\obj\Debug\net8.0\Student.DAL.csproj.CoreCompileInputs.cache
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.DAL\obj\Debug\net8.0\Student.DAL.dll
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.DAL\obj\Debug\net8.0\refint\Student.DAL.dll
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.DAL\obj\Debug\net8.0\Student.DAL.pdb
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.DAL\obj\Debug\net8.0\Student.DAL.genruntimeconfig.cache
+D:\ITI 2023\26- ASP\3- Day3\Student - Copy\Student.DAL\obj\Debug\net8.0\ref\Student.DAL.dll
